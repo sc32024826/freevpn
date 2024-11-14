@@ -1,0 +1,5 @@
+requests==2.25.1
+pyaes==1.6.1
+binascii==0.6.1
+json==3.9.0
+datetime==4.8
